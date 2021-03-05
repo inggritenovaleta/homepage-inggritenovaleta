@@ -7,8 +7,8 @@ Project constraints are limiting factors for our project that can impact quality
 | Type    | Define of Constraints                                                                                             |
 | ------- | ----------------------------------------------------------------------------------------------------------------- |
 | Quality | Minimum code quality must be ensured.                                                                             |
-| Time    | We have to finish the project in 2 week, and planning schedule of project partners needs to be better :runner:    |
-| Cost    | We have no cost during the project :moneybag:                                                                     |
+| Time    | I have to finish the project in 2 week, and planning schedule of project partners needs to be better :runner:    |
+| Cost    | I have no cost during the project :moneybag:                                                                     |
 | Scope   | Translating the design developed by my partner                                                                    |
 
 
