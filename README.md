@@ -18,7 +18,7 @@ Creating homepage for fellow member based on Users Interview and Design Thinking
 
 ## Group members
 
-* [Inggrit E Novaleta](https://gist.github.com/inggritenovaleta)
+* [Inggrit E Novaleta](https://github.com/inggritenovaleta)
 * [Michael T](https://github.com/Mika215)
 * [Zara Ana](https://github.com/zaraana)
 
@@ -26,7 +26,7 @@ Creating homepage for fellow member based on Users Interview and Design Thinking
 ## Task Division
 
 * [Michael T](https://github.com/Mika215) is the designer of [Inggrit E Novaleta](https://inggritenovaleta.github.io/homepage-inggritenovaleta/)'s homepage.
-* [Inggrit E Novaleta](https://gist.github.com/inggritenovaleta) is the designer of [Zara Ana](http://zaraana.github.io/homepage-zaraana/)'s homepage.
+* [Inggrit E Novaleta](https://github.com/inggritenovaleta) is the designer of [Zara Ana](http://zaraana.github.io/homepage-zaraana/)'s homepage.
 * [Zara Ana](https://github.com/zaraana) is the designer of [Michael T](http://mika215.github.io/homepage-michael/)'s homepage.
 
 ## Technologies
